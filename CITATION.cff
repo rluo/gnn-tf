@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "GNN-TF"
+type: software
+authors:
+  - family-names: Zhou
+    given-names: Runzhi
+  - family-names: Luo
+    given-names: Xi
+license: GPL-3.0-only
+preferred-citation:
+  type: article
+  title: "Graph Neural Networks with Transformer Fusion of Brain Connectivity Dynamics and Tabular Data for Forecasting Future Tobacco Use"
+  authors:
+    - family-names: Zhou
+      given-names: Runzhi
+    - family-names: Luo
+      given-names: Xi
